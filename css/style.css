@@ -1,0 +1,21 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.container {
+	max-width: 1200px;
+	display: flex;
+	margin:  auto;
+	margin-bottom: 20px;
+}
+.box-area {
+	background: blue;
+	padding: 50px ;
+}
+
+.col {
+	width: 33.33%;	
+	
+}
